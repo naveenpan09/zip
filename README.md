@@ -8,3 +8,4 @@ It requires following two programming language installed on the computer
 2. Python
 
 To crack the zip file run the main.go file: `go run main.go`
+Also, add words in the wordlist.txt
